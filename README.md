@@ -98,7 +98,6 @@ $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$
 
 $$
-\begin{gather}
 \begin{bmatrix}
 G^-1 & A\\
 -A^T & sC 
@@ -107,12 +106,13 @@ G^-1 & A\\
 q\\
 \theta 
 \end{bmatrix}
+$$
 =
+$$
 \begin{bmatrix}
 b\\
 f
 \end{bmatrix}
-\end{gather}
 $$
 
 **$$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$$**
