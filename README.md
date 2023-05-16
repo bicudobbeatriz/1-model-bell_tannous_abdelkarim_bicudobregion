@@ -106,9 +106,7 @@ q\\
 \theta 
 \end{bmatrix}
 $$
-
 =
-
 $$\begin{bmatrix}
 b\\
 f
