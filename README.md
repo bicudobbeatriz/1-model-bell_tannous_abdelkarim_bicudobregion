@@ -32,15 +32,15 @@ Boundary conditions
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Choosing of materials
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Window
+- Window\
 <img src="https://github.com/bicudobbeatriz/1-model-bell_tannous_abdelkarim_bicudobregion/assets/131647432/28e5a575-210a-4026-8598-8f1875753647" height = 250px width = 200px>\
 *Figure 2. Window material*
  
-- External wall
+- External wall\
 <img src="https://github.com/bicudobbeatriz/1-model-bell_tannous_abdelkarim_bicudobregion/assets/131647432/acb75783-9b8c-4118-9c1b-b20464692777" height = 250px width = 200px>\
 *Figure 3. External wall material*
           
-- Internal wall
+- Internal wall\
 <img src="https://github.com/bicudobbeatriz/1-model-bell_tannous_abdelkarim_bicudobregion/assets/131647432/ca03dc75-9896-41ad-85f0-a4d89fe63584" height = 250px width = 200px>\
 *Figure 4. Internal wall material*
 
