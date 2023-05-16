@@ -90,11 +90,11 @@ Vector f is a vector of length n containing all the known flow rates at each nod
 
 The following equations will then be used to solve the model:
 
-\begin{alignat*}{4}[left = \empheqlbrace]
+$$\begin{alignat*}{4}[left = \empheqlbrace]
 $e = -A\theta + b$\
 $q = G\cdot e$\
 $C\theta’ = A^T \cdot q + f$\
-\end{alignat*}
+\end{alignat*}$$
 
 $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$\
