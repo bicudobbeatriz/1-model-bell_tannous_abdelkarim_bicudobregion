@@ -106,8 +106,9 @@ G^-1 & A\\
 q\\
 \theta 
 \end{bmatrix}
+$$
 =
-\begin{bmatrix}
+$$\begin{bmatrix}
 b\\
 f
 \end{bmatrix}
