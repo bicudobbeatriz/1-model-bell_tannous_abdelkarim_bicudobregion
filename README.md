@@ -97,7 +97,8 @@ $C\theta’ = A^T \cdot q + f$
 $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$
 
-$$\begin{gather}
+$$
+\begin{gather}
 \begin{bmatrix}
 G^-1 & A\\
 -A^T & sC 
@@ -107,7 +108,7 @@ q\\
 \theta 
 \end{bmatrix}
 =
-$$\begin{bmatrix}
+\begin{bmatrix}
 b\\
 f
 \end{bmatrix}
