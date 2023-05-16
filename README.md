@@ -106,7 +106,9 @@ G^-1 & A\\
 q\\
 \theta 
 \end{bmatrix}
+
 =
+
 \begin{bmatrix}
 b\\
 f
