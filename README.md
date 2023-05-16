@@ -96,7 +96,6 @@ $C\theta’ = A^T \cdot q + f$\
 
 $G^-1 \cdot q + A\theta = b$\
 $-A^T \cdot q + sC\theta = f$\
-$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$
 
 $$\begin{bmatrix}
 G^-1 & A\\
@@ -113,6 +112,8 @@ b\\
 f
 \end{bmatrix}
 $$
+
+$C \cdot \theta’$ = $-A^TGA\theta$ + $A^TGb + f$
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 STEADY-STATE
