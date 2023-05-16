@@ -105,10 +105,10 @@ G^-1 & A\\
 \begin{bmatrix}
 q\\
 \theta 
-\end{bmatrix}
+\end{bmatrix}$$
 
 =
-
+$$
 \begin{bmatrix}
 b\\
 f
